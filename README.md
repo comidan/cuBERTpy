@@ -8,6 +8,11 @@ I also added a class in order to load and convert weights from a Pytorch saved m
 
 This work is the product of an other research project I've been working on.
 
+Here you can see just a quick comparison of timings between different sized BERT versions of HuggingFace and this CuPy implementation.
+
+![image](https://user-images.githubusercontent.com/6382701/121776741-d5eff700-cb8e-11eb-9b54-f105968858b6.png)
+
+
 For any question or issue please contact me!
 
 Thanks to [CuPy](https://github.com/cupy/cupy), [Pytorch](https://github.com/pytorch/pytorch) and [HuggingFace](https://github.com/huggingface/transformers)!

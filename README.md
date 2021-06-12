@@ -10,7 +10,7 @@ This work is the product of an other research project I've been working on.
 
 Here you can see just a quick comparison of timings between different sized BERT versions of HuggingFace and this CuPy implementation.
 
-![image](https://user-images.githubusercontent.com/6382701/121776741-d5eff700-cb8e-11eb-9b54-f105968858b6.png)
+![image](https://user-images.githubusercontent.com/6382701/121776756-ed2ee480-cb8e-11eb-88c0-146f4e0ccd86.png)
 
 
 For any question or issue please contact me!
